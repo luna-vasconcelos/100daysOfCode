@@ -35,7 +35,7 @@ while contador != 0:
     if num_jogador == num_computador:
         print(f"{cores['verde']}PABABÉNS! Você conseguiu me vencer! {cores['limpa']}")
     else:
-        print(f"{cores['vermelho']}PERDEU! Eu pensei no número {num_computador} e não no {num_jogador}!{cores['limpa']}")
+        print(f"{cores['vermelho']}Se lascou! ieeei! Eu pensei no número {num_computador} e não no {num_jogador}!{cores['limpa']}")
     usuario = int(input("Deseja continuar jogando? Digite 1 para continuar e 0 para parar: "))
     contador = usuario
 else:
