@@ -5,4 +5,4 @@
 
 Desafios de lógica <br />
 Projetos:
-  - Jogo de adivinhação
+  - Jogo de adivinhação 
